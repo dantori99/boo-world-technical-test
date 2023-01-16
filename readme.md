@@ -31,11 +31,7 @@ npm run test
 👤 **Daniel Harianja**
 
 * Github: [@dantori99](https://github.com/dantori99)
-* LinkedIn: [@dantori99](https://linkedin.com/in/dantori99)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
+* LinkedIn: [dantori99](https://linkedin.com/in/dantori99)
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
