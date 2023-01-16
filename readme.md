@@ -26,12 +26,23 @@ npm run start
 npm run test
 ```
 
-## Author
+## Endpoints
+```sh
+1. Profile
 
-👤 **Daniel Harianja**
+- {{host}}/:id => retrieve profile by Id
 
-* Github: [@dantori99](https://github.com/dantori99)
-* LinkedIn: [dantori99](https://linkedin.com/in/dantori99)
+2. User
+
+- {{host}}/user/createUser => create new user
+- {{host}}/user/getAll => retrieve all registered users
+
+3. Comment
+
+- {{host}}/comment/postComment/:userId => create a new comment
+- {{host}}/comment/getComment => get a comment (you may fill 'mbti' or 'enneagram' or 'zodiac' to filter the comment and sort with 'mostrecent' or 'mostliked' value to sort as a query parametes)
+- {{host}}/comment/likeComment => like/unlike the comment
+```
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
