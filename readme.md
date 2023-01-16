@@ -45,9 +45,9 @@ npm run test
 ```
 
 ## POSTMAN DOCUMENTATION
-```sh
-[https://documenter.getpostman.com/view/18034370/2s8ZDU54Zw](https://documenter.getpostman.com/view/18034370/2s8ZDU54Zw)
-```
+
+[CLICK HERE](https://documenter.getpostman.com/view/18034370/2s8ZDU54Zw)
+
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
