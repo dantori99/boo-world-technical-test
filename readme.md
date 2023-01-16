@@ -46,7 +46,7 @@ npm run test
 
 ## POSTMAN DOCUMENTATION
 ```sh
-https://documenter.getpostman.com/view/18034370/2s8ZDU54Zw
+[https://documenter.getpostman.com/view/18034370/2s8ZDU54Zw](https://documenter.getpostman.com/view/18034370/2s8ZDU54Zw)
 ```
 
 ***
